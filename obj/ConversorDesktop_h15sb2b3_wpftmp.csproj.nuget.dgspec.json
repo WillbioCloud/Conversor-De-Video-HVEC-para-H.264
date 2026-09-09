@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\willbio\\Desktop\\projetos de estudo\\Conversor-De-Video-HVEC-para-H.264\\ConversorDesktop.csproj": {}
+    "c:\\Users\\willbio\\Desktop\\projetos de estudo\\Conversor-De-Video-HVEC-para-H.264\\ConversorDesktop_h15sb2b3_wpftmp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\willbio\\Desktop\\projetos de estudo\\Conversor-De-Video-HVEC-para-H.264\\ConversorDesktop.csproj": {
+    "c:\\Users\\willbio\\Desktop\\projetos de estudo\\Conversor-De-Video-HVEC-para-H.264\\ConversorDesktop_h15sb2b3_wpftmp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\willbio\\Desktop\\projetos de estudo\\Conversor-De-Video-HVEC-para-H.264\\ConversorDesktop.csproj",
+        "projectUniqueName": "c:\\Users\\willbio\\Desktop\\projetos de estudo\\Conversor-De-Video-HVEC-para-H.264\\ConversorDesktop_h15sb2b3_wpftmp.csproj",
         "projectName": "ConversorDesktop",
-        "projectPath": "C:\\Users\\willbio\\Desktop\\projetos de estudo\\Conversor-De-Video-HVEC-para-H.264\\ConversorDesktop.csproj",
+        "projectPath": "c:\\Users\\willbio\\Desktop\\projetos de estudo\\Conversor-De-Video-HVEC-para-H.264\\ConversorDesktop_h15sb2b3_wpftmp.csproj",
         "packagesPath": "C:\\Users\\willbio\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\willbio\\Desktop\\projetos de estudo\\Conversor-De-Video-HVEC-para-H.264\\obj\\",
         "projectStyle": "PackageReference",
@@ -43,12 +43,6 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
-            "Microsoft.NET.ILLink.Tasks": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.30, )",
-              "autoReferenced": true
-            },
             "SharpVectors": {
               "target": "Package",
               "version": "[1.8.6, )"
@@ -69,20 +63,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[8.0.30, 8.0.30]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[8.0.30, 8.0.30]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[8.0.30, 8.0.30]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -92,11 +72,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.424/PortableRuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
         }
       }
     }

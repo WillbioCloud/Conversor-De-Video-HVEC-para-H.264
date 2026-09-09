@@ -1,12 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "87rsJvveQwo=",
+  "dgSpecHash": "bIAp0JV9TiE=",
   "success": true,
   "projectFilePath": "C:\\Users\\willbio\\Desktop\\projetos de estudo\\Conversor-De-Video-HVEC-para-H.264\\ConversorDesktop.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\willbio\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.30\\microsoft.net.illink.tasks.8.0.30.nupkg.sha512",
     "C:\\Users\\willbio\\.nuget\\packages\\sharpvectors\\1.8.6\\sharpvectors.1.8.6.nupkg.sha512",
     "C:\\Users\\willbio\\.nuget\\packages\\wpf-ui\\4.3.0\\wpf-ui.4.3.0.nupkg.sha512",
-    "C:\\Users\\willbio\\.nuget\\packages\\wpf-ui.abstractions\\4.3.0\\wpf-ui.abstractions.4.3.0.nupkg.sha512"
+    "C:\\Users\\willbio\\.nuget\\packages\\wpf-ui.abstractions\\4.3.0\\wpf-ui.abstractions.4.3.0.nupkg.sha512",
+    "C:\\Users\\willbio\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.30\\microsoft.netcore.app.runtime.win-x64.8.0.30.nupkg.sha512",
+    "C:\\Users\\willbio\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.30\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.30.nupkg.sha512",
+    "C:\\Users\\willbio\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.30\\microsoft.aspnetcore.app.runtime.win-x64.8.0.30.nupkg.sha512"
   ],
   "logs": []
 }
